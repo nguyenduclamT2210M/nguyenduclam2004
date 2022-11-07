@@ -5,6 +5,7 @@ int main(){
 	
 	int arr[10];
 	for (int k=0; k<10;k++){
+		printf("arr[%d]:",k);
 		scanf("%d",&arr[k]);
 		
 	}
