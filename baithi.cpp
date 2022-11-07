@@ -1,4 +1,5 @@
-#include <stdio.h>
+ //bai thi thu nhat
+ #include <stdio.h>
 int main(){
 	printf(" nhap so nguyen \n ");
 	
